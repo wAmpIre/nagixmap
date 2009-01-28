@@ -1,0 +1,9 @@
+Simple "map" for Nagios with NDOUtils
+
+1. Copy whole dir to /usr/local/nagios/share/nagixmap/
+2. cd /usr/local/nagios/share/nagixmap/
+3. cp config.php config_local.php
+4. vi config_local.php
+
+Have fun ;-)
+
